@@ -1,0 +1,13 @@
+{
+  "name": "dispatch-bot",
+  "version": "1.0.0",
+  "main": "dispatch-bot.js",
+  "authors": [
+    "Trezy <tre@trezy.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "irc": "^0.3.12"
+  }
+}
